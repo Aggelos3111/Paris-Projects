@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Indoor Retail Navigation",
+    "slug": "indoor-retail-navigation",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "6c1148d0-5469-4885-9272-bf40edc15f45"
+      }
+    }
+  }
+}

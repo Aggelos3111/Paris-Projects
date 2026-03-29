@@ -1,0 +1,23 @@
+[
+  { "id": 1, "name": "Milk", "node_id": 34, "section": "Dairy, Eggs & Cheese" },
+  { "id": 2, "name": "Bread", "node_id": 31, "section": "Bakery" },
+  { "id": 3, "name": "Meat", "node_id": 33, "section": "Meat" },
+  { "id": 4, "name": "Eggs", "node_id": 34, "section": "Dairy, Eggs & Cheese" },
+  { "id": 5, "name": "Cookies", "node_id": 31, "section": "Bakery" },
+  { "id": 6, "name": "Beef", "node_id": 33, "section": "Meat" },
+  { "id": 7, "name": "Chicken", "node_id": 33, "section": "Meat" },
+  { "id": 8, "name": "Soda", "node_id": 35, "section": "Wine & Spirits" },
+  { "id": 9, "name": "Cheese", "node_id": 34, "section": "Dairy, Eggs & Cheese" },
+  { "id": 10, "name": "Seafood", "node_id": 12, "section": "Seafood" },
+  { "id": 11, "name": "Apples", "node_id": 9, "section": "Produce" },
+  { "id": 12, "name": "Bananas", "node_id": 9, "section": "Produce" },
+  { "id": 13, "name": "Rice", "node_id": 11, "section": "Bulk" },
+  { "id": 14, "name": "Pasta", "node_id": 37, "section": "Grocery" },
+  { "id": 15, "name": "Cereal", "node_id": 37, "section": "Grocery" },
+  { "id": 16, "name": "Frozen Pizza", "node_id": 36, "section": "Frozen" },
+  { "id": 17, "name": "Ice Cream", "node_id": 36, "section": "Frozen" },
+  { "id": 18, "name": "Sandwich", "node_id": 32, "section": "Deli & Prepared Foods" },
+  { "id": 19, "name": "Salad", "node_id": 32, "section": "Deli & Prepared Foods" },
+  { "id": 20, "name": "Wine", "node_id": 35, "section": "Wine & Spirits" },
+  { "id": 21, "name": "Flowers", "node_id": 10, "section": "Florist" }
+]
